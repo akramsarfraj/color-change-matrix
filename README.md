@@ -4,6 +4,7 @@ When we click the last box it change color in the sequence of their
 
 # Project Deploy Link
 
+https://sweet-daifuku-7db18c.netlify.app/
 
 ## `npm install`
 Run this command inside project folder to download the dependences
